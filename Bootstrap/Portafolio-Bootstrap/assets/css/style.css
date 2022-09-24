@@ -1,0 +1,26 @@
+.navbar img{
+    width: auto;
+    height: 50px;
+}
+
+.link-contacto{
+    background-color: #EF5B0C;
+    border-radius: 10px;
+}
+
+.link-contacto:hover{
+    background-color: #73777B;
+}
+
+.canvas-contact a{
+    color: #EF5B0C;
+    text-decoration: none;
+}
+
+.canvas-contact a:hover{
+    color: #73777B;
+}
+
+.footer{
+    height: 100px;
+}

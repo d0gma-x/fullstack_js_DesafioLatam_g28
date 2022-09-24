@@ -1,0 +1,29 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+    background-color: #28A745;
+}
+
+.navbar img{
+    width: auto;
+    height: 30px;
+}
+
+.direccion-mapa{
+    font-size: 13px;
+}
+
+.valor-oferta{
+    color: #28A745;
+}
+
+form{
+    background-color: #28A745;
+}
+
+footer img{
+    width: 82px;
+    height: 24px;
+}
