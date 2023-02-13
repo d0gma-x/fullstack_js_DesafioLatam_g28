@@ -5,11 +5,15 @@ const Header = (props) => {
   return (
     <Navbar className="header flex-wrap">
       <Container fluid>
-        <Navbar.Brand href="#home" className="text-white fs-3">{title}</Navbar.Brand>
+        <Navbar.Brand href="#home" className="text-white fs-3">
+          {title}
+        </Navbar.Brand>
         <Navbar.Toggle />
-        <Navbar.Collapse className="justify-content-end text-white">{subtitle}</Navbar.Collapse>
+        <Navbar.Collapse className="justify-content-end text-white">
+          {subtitle}
+        </Navbar.Collapse>
       </Container>
-      </Navbar>
+    </Navbar>
   );
 };
 
